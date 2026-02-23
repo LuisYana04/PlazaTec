@@ -1,0 +1,19 @@
+# Credenciales
+.env
+*.env
+
+# Dependencias
+node_modules/
+
+# Archivos de prueba LOCAL
+test-data/
+temp/
+*.test.js
+
+# Configuraciones personales
+.vscode/
+.idea/
+
+# NO subir instancias específicas de clientes
+clientes/
+demos/
